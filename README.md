@@ -1,1 +1,1 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/843842265507037204/847069778602229781/giphy.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ez)](https://github.com/anuraghazra/github-readme-stats)
