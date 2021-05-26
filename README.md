@@ -1,2 +1,1 @@
-<h1 align="center">artiiFN dev</h1>
-<h3 align="center">dont skid</h3>
+![image](https://cdn.discordapp.com/attachments/843842265507037204/847069778602229781/giphy.gif)
